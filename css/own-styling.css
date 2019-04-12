@@ -19,6 +19,10 @@ html {
   width: 10vw;
 }
 
+.btn a {
+  color: white;
+}
+
 .img-fluid {
   width: 500px;
 }
